@@ -69,10 +69,10 @@ Once you have the node server running successfully, the *app.js* file will have 
 <!-- DIRECTORY -->
 ## Directory
 
-### [/Public/CSS]()
+### [/Public/CSS](https://github.com/JAndrew13/BlogWebsite/tree/main/public/css)
 Folder containing CSS style sheet linked to the HTML document
 
-### [/Views]()
+### [/Views](https://github.com/JAndrew13/BlogWebsite/tree/main/views)
 Contains all pages and components used in the website
 
 **/partials**
