@@ -3,7 +3,10 @@
 <!-- ABOUT SECTION -->
 This is the source code for my two part Blog website challenge project. It was initially created using Node and EJS, and then was later upgraded to include the use of a MongoDB database to store new blog posts. This project pulled together many of the tools used in previous lessons, resulting in a clean and minimal website in both design and code.
 
+
 Upon opening the website, you'll see a simple navigation bar containing links to the about, contact, and home page. Below this, I've included a basic overview text area, followed by a list of blog posts. 
+
+<img src="https://github.com/JAndrew13/BlogWebsite/blob/main/BlogWebsite.jpg" width="1000">
 
 **The Homepage**
 On the Homepage, all of the posts are displayed in ascending order by date created. They are each shown with their title, as well as a truncated sample of the post body, followed by a 'read more' link. Clicking this link will take you to a dynamically created page for the post. 
